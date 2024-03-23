@@ -2,8 +2,8 @@
 課題番号06　JavaScript選手権　Travel Journal　Take me to National Parks　ver.2.0
 
 ## ②課題内容（どんな作品か）
-行ったことのあるNational Park付近の地図を表示し、地図上のピンをクリックすると写真が表示されます。
-National Parkで撮った写真3枚を地図の下の写真エリアに表示します。写真3枚のサムネイルをクリックするとクリックした写真が大きく表示されます。
+行ったことのあるNational Parkのボタンをクリックすると付近の地図を表示します。地図上のピンをクリックすると写真が表示されます。
+地図の下の写真エリアにNational Parkで撮った写真3枚を表示します。写真3枚のサムネイルをクリックするとクリックした写真が大きく表示されます。
 
 ## ③DEMO
 https://rita-pggym.github.io/kadai06_js/
